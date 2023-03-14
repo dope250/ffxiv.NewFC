@@ -3,11 +3,11 @@ title: "Willkommen"
 weight: 1
 ---
 
-This will be:
-Hauptseite ((Adresse / Beschreibung) Aktuelles)
+![Der Sprechende Dolch](logo.png)
 
-|Alpha / Light|Beschreibung der Location|
-|---|---|
+|Alpha / Light||
+|:---:|:---:|
+|Empyreum; Bezirk X; Plot X| Wunderschöne Lage mit Blick auf die verschneiten Häuser Ishgards.|
 
 ### Aktuelles
 

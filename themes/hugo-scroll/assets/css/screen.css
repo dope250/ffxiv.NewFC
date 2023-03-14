@@ -436,7 +436,7 @@ li {
 .title-and-description-guard {
     margin: auto;
     padding: 0.5em;
-    background-color: rgb(255 255 255 / 60%);
+    background-color: rgb(66 63 62 / 40%);
     border-radius: 25px;
     width: fit-content;
 }
