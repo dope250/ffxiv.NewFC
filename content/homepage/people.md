@@ -18,12 +18,10 @@ Wow. That was nice, right? Well, call me and let us talk.
 
 ---
 
-## Q'nhile
+## Q'nhile Rhanu
 
 This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
 
-![Leih'li Tulsei](images/7cb11c47fe426376a9bf035556f11daa.png)
+![Q'nhile Rhanu](images/7cb11c47fe426376a9bf035556f11daa.png)
 
-Wow. That was nice, right? Well, call me and let us talk.
-
-
+---

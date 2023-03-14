@@ -4,6 +4,17 @@ weight: 4
 header_menu: true
 ---
 
-![Speisen](images/banner/buffet2_960x320.jpg)
+![Speisen](images/banner/960x320_Kitchen.png)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+* Fladenbrot *2 Gil*
+* Trockenfleisch *3 Gil*
+* -> In Honig mariniert *4 Gil*
+* Käse-Bier Tunke *3 Gil*
+* Stück Käse *2 Gil*
+* Honigflechten *3 Gil*
+
+### Jägertopf
+
+* Jägertopf + Fladenbrot *5 Gil*
+* -> Ohne Fladenbrot *4 Gil*
+* -> Wenn eigene Beute als Spende, ohne Fladenbrot *0 Gil*
