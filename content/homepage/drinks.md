@@ -14,3 +14,12 @@ header_menu: true
 | Schafsmilch *3 Gil* | Ishgarder Winterbier *4 Gil* |
 |  | Glühwein *6 Gil* |
 |  | Apfelwein *7 Gil* |
+
+##### Anmerkungen
+
+* Alkohol: 2 Teile Alkohol, 1 Teil Wasser
+* Rum: selbst hergestellt, dennoch verdünnt
+* Grog: Rum, Wasser, Zucker
+* Ishgarder Wässerchen: Vodka aus Getreide
+* Ishgarder Winterbier: schales Pilz (alte, kaputte Fässer und das billigste Bier), mit einer Haube geschlagenem Eiweiß
+* Glühwein: heißer Rotwein mit Wasser, Zucker und Gewürzen gepanscht

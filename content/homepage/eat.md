@@ -18,3 +18,8 @@ header_menu: true
 * Jägertopf + Fladenbrot *5 Gil*
 * -> Ohne Fladenbrot *4 Gil*
 * -> Wenn eigene Beute als Spende, ohne Fladenbrot *0 Gil*
+
+##### Anmerkungen
+* Fladenbrot: aus grob gemahlenem Getreide
+* Käse: aus Schafsmilch
+* Honigflechten: getrocknete, in Honig marinierte, Flechten von Bäumen
