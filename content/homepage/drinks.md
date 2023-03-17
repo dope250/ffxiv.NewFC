@@ -15,11 +15,10 @@ header_menu: true
 |  | Glühwein *6 Gil* |
 |  | Apfelwein *7 Gil* |
 
-##### Anmerkungen
-
-* Alkohol: 2 Teile Alkohol, 1 Teil Wasser
-* Rum: selbst hergestellt, dennoch verdünnt
-* Grog: Rum, Wasser, Zucker
-* Ishgarder Wässerchen: Vodka aus Getreide
-* Ishgarder Winterbier: schales Pilz (alte, kaputte Fässer und das billigste Bier), mit einer Haube geschlagenem Eiweiß
-* Glühwein: heißer Rotwein mit Wasser, Zucker und Gewürzen gepanscht
+##### Zutaten
+* **Alkohol**: 2 Teile Alkohol, 1 Teil Wasser
+* **Rum**: selbst hergestellt, dennoch verdünnt
+* **Grog**: Rum, Wasser, Zucker
+* **Ishgarder Wässerchen**: Vodka aus Getreide
+* **Ishgarder Winterbier**: schales Pilz (alte, kaputte Fässer und das billigste Bier), mit einer Haube geschlagenem Eiweiß
+* **Glühwein**: heißer Rotwein mit Wasser, Zucker und Gewürzen gepanscht

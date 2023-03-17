@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Speisen](images/banner/960x320_Kitchen.png)
+![Speisen](images/banner/960x320_Entrance.png)
 
 * Fladenbrot *2 Gil*
 * Trockenfleisch *3 Gil*
@@ -19,7 +19,7 @@ header_menu: true
 * -> Ohne Fladenbrot *4 Gil*
 * -> Wenn eigene Beute als Spende, ohne Fladenbrot *0 Gil*
 
-##### Anmerkungen
-* Fladenbrot: aus grob gemahlenem Getreide
-* Käse: aus Schafsmilch
-* Honigflechten: getrocknete, in Honig marinierte, Flechten von Bäumen
+##### Zutaten
+* **Fladenbrot**: aus grob gemahlenem Getreide
+* **Käse**: aus Schafsmilch
+* **Honigflechten**: getrocknete, in Honig marinierte, Flechten von Bäumen
