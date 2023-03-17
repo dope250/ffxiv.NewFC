@@ -10,11 +10,16 @@ weight: 1
 
 | | |
 |:----:|:---:|
-|Empyreum \\ Bezirk 8 \\ Plot 18| Wunderschöne Lage mit Blick auf die verschneiten Häuser Ishgards. Im Garten ein wunderschönes Feuer zum aufwärmen, die großen Eingangstore bereits vom weitem aus Sichtbar. |
+|Empyreum \\ Bezirk 8 \\ Plot 18| Blick auf die verschneiten Häuser Ishgards, im Garten ein wunderschönes Feuer zum aufwärmen, die großen Eingangstore bereits vom weiten aus sichtbar. |
 
 ### Aktuelles / Events
 
-Text mit aktuellen News oder Informationen über den sprechenden Dolch. Aktuell sind keine Events geplant. 
-Die Eröffnungsfeier ist aber bereits in Arbeit!
+Willkommen im Sprechenden Dolch, dem berüchtigten Treffpunkt für Eorzeas zwielichtige Gestalten! Hier kannst du dich mit gleichgesinnten Abenteurern treffen und über alle möglichen Themen diskutieren - von alten Legenden bis hin zu den neuesten Gerüchten. 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Unsere Getränke sind legendär und unsere Atmosphäre einzigartig. 
+
+Also komm vorbei und erlebe die dunkle Seite von Eorzea. Aber Achtung: Der Sprechende Dolch ist kein Ort für Schwache Nerven. Er liegt in einer dunklen und heruntergekommenen Gegend von Empyreum, die von vielen als gefährlich und unsicher empfunden wird. 
+
+Die Straßen sind schmutzig, voller Schlaglöcher und es gibt oft Schlägereien und Diebstähle. Die Gebäude um uns herum sind verfallen und schief, und es gibt keinen schönen Ausblick oder grüne Oasen in der Nähe. Aber wenn du bereit bist, dich durch diese unwirtliche Umgebung zu kämpfen, wirst du den Sprechenden Dolch finden - manchmal einen sicheren Hafen inmitten des Chaos.
+
+Entdecke Geheimnisse und teile deine eigenen im 'Sprechenden Dolch' - wo jeder Drink eine Geschichte birgt und jeder Gast eine Vergangenheit hat.

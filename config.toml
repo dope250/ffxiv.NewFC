@@ -9,7 +9,7 @@ defaultContentLanguage = "de"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Der Sprechende Dolch - Ein toller Slogan steht hier"
+title = "Der Sprechende Dolch - Wo jeder Drink eine Geschichte birgt und jeder Gast eine Vergangenheit hat"
 
 # Theme-specific variables
 [params]
@@ -31,10 +31,10 @@ title = "Der Sprechende Dolch - Ein toller Slogan steht hier"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Der Sprechende Dolch - Ein ganz toller Slogan"
+    title = "Der Sprechende Dolch - Wo jeder Drink eine Geschichte birgt und jeder Gast eine Vergangenheit hat"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Rollenspiel location in Final Fantasy XIV"
+    description = "Eine deutsche Rollenspiel Location in Final Fantasy XIV der Freien Gesellschaft Amun-Re."
 
     [params.meta]
         keywords = "roleplay, gaming, Final Fantasy XIV, German, Lich, Light, Screenshot, Guild, Free Company"
@@ -45,4 +45,4 @@ title = "Der Sprechende Dolch - Ein toller Slogan steht hier"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
-    hidedesignbyline = true
+    hidedesignbyline = false
