@@ -12,20 +12,16 @@ Es ist billig und schnell zubereitet, aber nicht unbedingt gesund oder lecker. U
 
 Aber wenn du hungrig bist und nicht viel Geld ausgeben möchtest, können wir dir etwas zu essen anbieten. Aber sei gewarnt, es ist kein kulinarisches Erlebnis.
 
-* Fladenbrot *2 Gil*
-* Trockenfleisch *3 Gil*
-* -> In Honig mariniert *4 Gil*
-* Käse-Bier Tunke *3 Gil*
-* Stück Käse *2 Gil*
-* Honigflechten *3 Gil*
+* Fladenbrot - **2 Gil**
+* Trockenfleisch - **3 Gil**
+* -> In Honig mariniert - **4 Gil**
+* Käse-Bier Tunke - **3 Gil**
+* Stück Käse - **2 Gil**
+* Honigflechten - **3 Gil**
+
 
 ### Jägertopf
 
-* Jägertopf + Fladenbrot *5 Gil*
-* -> Ohne Fladenbrot *4 Gil*
-* -> Wenn eigene Beute als Spende, ohne Fladenbrot *0 Gil*
-
-##### Zutaten
-* **Fladenbrot**: aus grob gemahlenem Getreide
-* **Käse**: aus Schafsmilch
-* **Honigflechten**: getrocknete, in Honig marinierte, Flechten von Bäumen
+* Jägertopf + Fladenbrot - **5 Gil**
+* -> Ohne Fladenbrot - **4 Gil**
+* -> Wenn eigene Beute als Spende, ohne Fladenbrot - **0 Gil**

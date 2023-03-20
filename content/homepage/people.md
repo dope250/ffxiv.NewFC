@@ -4,6 +4,8 @@ weight: 4
 header_menu: true
 ---
 
+![Zimmer](images/banner/960x320_Patio.png)
+
 Unser Team im Sprechenden Dolch ist eine Gruppe von einzigartigen Individuen, die alle ihr eigenes Wissen und ihre eigenen Fähigkeiten mitbringen. Unsere Barkeeper sind wahre Meister ihres Handwerks und können dir jeden Drink mixen, den du dir vorstellen kannst. 
 
 Unsere Bedienungen sind freundlich, aufmerksam und haben immer ein offenes Ohr für deine Geschichten und Probleme. Und unsere Sicherheitskräfte sorgen dafür, dass du dich sicher und wohl fühlst, während du bei uns bist. 
