@@ -9,16 +9,6 @@ weight: 1
 |:---:|
 |Empyreum \\ Bezirk 8 \\ Haus 18|
 
-Willkommen im Sprechenden Dolch, dem Treffpunkt für Eorzeas zwielichtige Gestalten! Hier kannst du dich mit gleichgesinnten schäbigen Abenteurern treffen und über alle möglichen Themen diskutieren.
-
-Die Atmosphäre ist düster und ungemütlich, mit verdächtigen Gestalten, die in dunklen Ecken herumlungern. Die Mitglieder der Gilde sind oft unfreundlich und unangenehm im Umgang, und es gibt Gerüchte über illegale Aktivitäten, die in ihren Räumlichkeiten stattfinden.
-
-Also komm vorbei und erlebe die dunkle Seite von Eorzea. Aber Achtung: Der Sprechende Dolch ist kein Ort für Schwache Nerven. Er liegt in einer dunklen und heruntergekommenen Gegend von Ishgard, die von vielen als gefährlich und unsicher empfunden wird. 
-
-Die Straßen sind schmutzig, voller Schlaglöcher und es gibt oft Schlägereien und Diebstähle. Die Gebäude um uns herum sind verfallen und schief, und es gibt keinen schönen Ausblick oder grüne Oasen in der Nähe. Aber wenn du bereit bist, dich durch diese unwirtliche Umgebung zu kämpfen, wirst du den Sprechenden Dolch finden.
-
-Entdecke Geheimnisse und teile deine eigenen im 'Sprechenden Dolch' - wo jeder Drink eine Geschichte birgt und jeder Gast eine Vergangenheit hat.
-
 ### Der Dolch
 
 |**_Außenbereich_**|
