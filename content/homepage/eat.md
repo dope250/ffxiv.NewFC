@@ -8,10 +8,6 @@ header_menu: true
 
 Unser Essen im Sprechenden Dolch ist nichts für Feinschmecker. 
 
-Es ist billig und schnell zubereitet, aber nicht unbedingt gesund oder lecker. Unsere Gerichte bestehen aus Fertigprodukten und oft sind die Zutaten nicht mehr ganz frisch. Die Portionen sind klein und die Präsentation lässt zu wünschen übrig. Der Geschmack ist bestenfalls durchschnittlich, manchmal aber auch einfach nur schlecht. 
-
-Aber wenn du hungrig bist und nicht viel Geld ausgeben möchtest, können wir dir etwas zu essen anbieten. Aber sei gewarnt, es ist kein kulinarisches Erlebnis.
-
 * Fladenbrot - **2 Gil**
 * Trockenfleisch - **3 Gil**
 * -> In Honig mariniert - **4 Gil**
