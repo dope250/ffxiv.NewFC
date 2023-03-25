@@ -1,4 +1,4 @@
-baseURL = "https://dolch.electronicping.net" # TODO: Change to custom domain if available
+baseURL = "https://newbies.electronicping.net" # TODO: Change to custom domain if available
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "de"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Der Sprechende Dolch - Wo jeder Drink eine Geschichte birgt und jeder Gast eine Vergangenheit hat"
+title = "Newbies - Eine deutsche Gilde in Final Fantasy XIV für Neulinge und alle die es werden wollen"
 
 # Theme-specific variables
 [params]
@@ -31,17 +31,17 @@ title = "Der Sprechende Dolch - Wo jeder Drink eine Geschichte birgt und jeder G
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Der Sprechende Dolch - Wo jeder Drink eine Geschichte birgt und jeder Gast eine Vergangenheit hat"
+    title = "Newbies - Eine deutsche Gilde in Final Fantasy XIV für Neulinge und alle die es werden wollen"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Eine deutsche Rollenspiel Location in Final Fantasy XIV der Freien Gesellschaft Amun-Re."
+    description = "Eine deutsche Gilde in Final Fantasy XIV für Neulinge und alle die es werden wollen"
 
     [params.meta]
-        keywords = "roleplay, gaming, Final Fantasy XIV, German, Lich, Light, Screenshot, Guild, Free Company"
+        keywords = "fc, gaming, Final Fantasy XIV, German, Lich, Light, Screenshot, Guild, Free Company"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Amun-Re FC"
+    copyright = "© Newbies FC"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
